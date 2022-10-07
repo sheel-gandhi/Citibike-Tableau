@@ -57,5 +57,5 @@ https://public.tableau.com/app/profile/sheel.gandhi/viz/citibikechallenge_166481
 * **Target market should be males needing transportation to work and weekend activities and push for subscribing to the services.**
 
 ## Recommendations:
-* **A chart showing a relationship between subscribers as weekday users with regular usage and customers as weekend users with recreational purpose can be shown. 
-* **A chart showing rides starting and ending location by gender can be created seperately which will emphasize on usage per gender per location.
+* **A chart showing a relationship between subscribers as weekday users with regular usage and customers as weekend users with recreational purpose can be shown.** 
+* **A chart showing rides starting and ending location by gender can be created seperately which will emphasize on usage per gender per location.**
