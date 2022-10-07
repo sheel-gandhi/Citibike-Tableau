@@ -52,9 +52,9 @@ https://public.tableau.com/app/profile/sheel.gandhi/viz/citibikechallenge_166481
 
 ## Summary
 
-* **Male riders are highest in subscribers category and they have the highest tripduration**
+* **Male riders are highest in subscribers category and they have the highest tripduration.**
 * **Bike Repairs for one-third of the Citibikes has to be done during non-peak hours around 1:00-5:00 am.**
-* **Target market should be males needing transportation to work and weekend activities and push for subscribing to the services.**
+* **Market for weekdays and weekend is completely different. Efforts should be made to convert the weekend users who are the customer base, to be encouraged to become subscribers thereby increasing total number of trips.**
 
 ## Recommendations:
 * **A chart showing a relationship between subscribers as weekday users with regular usage and customers as weekend users with recreational purpose can be shown.** 
